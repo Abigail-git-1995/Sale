@@ -15,15 +15,12 @@ Here's a basic outline to guide you through the process:
 2. Used Power Query Editor to clean the data (remove duplicates, fill missing values, etc.).
 3. Ensure that columns have the correct data types (e.g., date columns).
  
-### Data Modelling
-Define relationships between tables if there are multiple tables
- 
 ### DAX Calculations
-Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins, etc.
+Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins.
  
 ### Data Visualization
-1. Build visuals (charts, tables, etc.) using the fields and measures created.
-2. Arrange visuals on the canvas to create an interactive dashboard.
+- Building visuals using the fields and measures created.
+- Arrange visuals on the canvas to create an interactive dashboard.
  
 ## Insights
  
