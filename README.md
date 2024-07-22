@@ -18,6 +18,7 @@ Here's a basic outline to guide you through the process:
 ### DAX Calculations
 Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins.
 measures sale.JPG
+measure 2.JPG
  
 ### Data Visualization
 - Building visuals using the fields and measures created.
