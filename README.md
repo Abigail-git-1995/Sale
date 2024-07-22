@@ -2,7 +2,7 @@
 
 ![](photo_2024-01-29_06-15-15.jpg)
 ## Project Objective:
-The primary task involves a comprehensive analysis of sales data to discern trends, pinpoint top-selling products, and evaluate revenue metrics. This insightful exploration aims to provide valuable information for informed business decision-making.
+The primary task involved a comprehensive analysis of sales data to discern trends, pinpoint top-selling products, and evaluate revenue metrics. This insightful exploration aims to provide valuable information for informed business decision-making.
  
 Here's a basic outline to guide you through the process:
   ### Import Data
