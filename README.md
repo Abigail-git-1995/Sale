@@ -7,18 +7,15 @@ The primary task involved a comprehensive analysis of sales data to discern tren
 Here's a basic outline to guide you through the process:
   ### Import Data
 1. Launch Power BI Desktop.
-2. Click on "Home" > "Get Data" > choose the appropriate data source (e.g., Excel, CSV).
-3. Import the sales dataset.
+2. Import the sales dataset.
  
 ### Data Cleaning / Data Transformation
 1. Examine the dataset for missing values, duplicates, or anomalies.
 2. Used Power Query Editor to clean the data (remove duplicates, fill missing values, etc.).
 3. Ensure that columns have the correct data types (e.g., date columns).
  
-### DAX Calculations
-Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins.
-
-### Data Visualization
+### DAX Calculations / Data Visualization
+- Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins.
 - Building visuals using the fields and measures created.
 - Arrange visuals on the canvas to create an interactive dashboard.
   
